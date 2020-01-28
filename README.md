@@ -2,7 +2,7 @@
 
 Sarena Oberoi
 
-#Informal Responses
+# Informal Responses to Readings
 
 1. Blumenstock (Jan. 28)
 
@@ -11,3 +11,11 @@ Sarena Oberoi
 ### Formal Assignments
 
 1. Annotated Bibliography
+- Problem Statement
+ - Harms
+ - Significance of those harms
+ -Inherent nature of the problem 
+- Selected LMIC or Region 
+-Dimension of Human Development 
+
+2. Literature Review 
