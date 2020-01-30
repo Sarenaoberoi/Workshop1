@@ -10,7 +10,6 @@ Sarena Oberoi
 
 [Blumenstock Response](Sarenaoberoi.github.io/Workshop1/blumenstock/) (Jan. 30, revised)  
 
-webiste: https://sarenaoberoi.github.io/Workshop1/
 
 ### Formal Assignments
 
