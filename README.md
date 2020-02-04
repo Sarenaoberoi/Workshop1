@@ -10,6 +10,8 @@ Sarena Oberoi
 
 3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumentstock) (Jan. 30, revised)  
 
+4. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workship1/jahan) (Feb. 04)
+
 
 ### Formal Assignments
 
