@@ -6,9 +6,9 @@ Sarena Oberoi
 
 1. Blumenstock (Jan. 28)
 
-2. [Blumenstock Response ](https://github.com/Sarenaoberoi/Workshop1/blob/master/blumenstock.md)
+2. [Blumenstock Response ](https://github.com/Sarenaoberoi/Workshop1/blob/master/BlumenstockResponse.md)
 
-3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumenstock) (Jan. 30, revised)  
+3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/BlumenstockResponse) (Jan. 30, revised)  
 
 
 ### Formal Assignments
