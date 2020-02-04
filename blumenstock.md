@@ -1,10 +1,9 @@
-Blumenstock Response
+Response 1: Blumenstock 
 
 Sarena Oberoi
 
 01/23/2020
 
- What is the promise of data science for human development? What are some of the pitfalls? 
 
 Data science has the potential to solve many of the global problems we see in the world today. According to Blumenstock, it is possible to utilize some of the big data approaches used by companies such as Facebook, to help allocate resources to those living in poverty. By using a variety of methods including analyzing pictures taken by satellites of those living in unbearable conditions, it is possible to pinpoint exactly where resources should go. This way, those in serious need of help will be able to get the necessary assistance they need- faster and better. Furthermore, the use of phone data can allow us to track the negative effects of natural disasters and how different areas may be effected. This will allow us to directly help those that need it. 
 
