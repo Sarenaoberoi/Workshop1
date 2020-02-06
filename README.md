@@ -8,7 +8,7 @@ Sarena Oberoi
 
 2. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workshop1/jahan) (Feb. 04)
 
-3. [Jahan and Rosling Rsponse](
+3. [Jahan and Rosling Response- revised](
 
 
 ### Formal Assignments
