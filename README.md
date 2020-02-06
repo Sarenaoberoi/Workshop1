@@ -4,13 +4,9 @@ Sarena Oberoi
 
 # Informal Responses to Readings
 
-1. Blumenstock (Jan. 28)
+1. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumenstock) (Jan. 30, revised)  
 
-2. [Blumenstock Response ](https://github.com/Sarenaoberoi/Workshop1/blob/master/blumenstock.md)
-
-3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumenstock) (Jan. 30, revised)  
-
-4. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workshop1/jahan) (Feb. 04)
+2. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workshop1/jahan) (Feb. 04)
 
 
 ### Formal Assignments
