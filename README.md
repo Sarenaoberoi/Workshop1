@@ -8,7 +8,7 @@ Sarena Oberoi
 
 2. [Blumenstock Response ](https://github.com/Sarenaoberoi/Workshop1/blob/master/blumenstock.md)
 
-3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumentstock) (Jan. 30, revised)  
+3. [Blumenstock Response](https://sarenaoberoi.github.io/Workshop1/blumenstock) (Jan. 30, revised)  
 
 4. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workshop1/jahan) (Feb. 04)
 
