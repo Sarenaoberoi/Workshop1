@@ -10,6 +10,8 @@ Sarena Oberoi
 
 3. [Jahan and Rosling Response- revised](
 
+4. [Barder Response](https://sarenaoberoi.github.io/Workshop1/barder
+
 
 ### Formal Assignments
 
