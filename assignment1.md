@@ -1,4 +1,4 @@
-## Assignment 1: Tracking the Spread of Ebola Through West Africa 
+## Assignment 1: Ebola in West Africa 
 
 Sarena Oberoi
 
