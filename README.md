@@ -8,7 +8,7 @@ Sarena Oberoi
 
 2. [Jahan and Rosling Response](https://sarenaoberoi.github.io/Workshop1/jahan) (Feb. 04)
 
-3. [Jahan and Rosling Response] (revised)
+3. [Jahan and Rosling Response- Revised](https://sarenaoberoi.github.io/Workshop1/jahanrevised)
 
 4. [Barder Response](https://sarenaoberoi.github.io/Workshop1/barder) (Feb. 18)
 
