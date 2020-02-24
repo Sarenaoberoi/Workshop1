@@ -15,7 +15,7 @@ Sarena Oberoi
 
 ### Formal Assignments
 
-1. [Annotated Bibliography](https://sarenaoberoi.git.hub.io/Workshop1/Assignment1)
+1. [Annotated Bibliography](https://github.com/Sarenaoberoi/Workshop1/blob/master/Assignment1)
 - Problem Statement
  - Harms
  - Significance of those harms
