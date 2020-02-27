@@ -1,3 +1,7 @@
+Sarena Oberoi
+
+Feburary 18, 2020
+
 Question 6: 
 
 In his podcast "Development and Complexity," Owen Barder suggests a variety of ways that individuals can shape development. He compares rich and poor countries and attempts to find answers to explain the large disparities we see regarding development around the world. In his podcast, Barder touches on the idea of 'creative destruction,' an idea introduced by Shumpeter. He describes creative destruction as a means of firms and industries around the world changing and adapting to today's environment. The best way for firms and industries to increase their economic success, is to adjust and adapt their techniques and processes to be better suited for the current environment. This idea can be further explained by the company "Nokia." Nokia began as a company that sold rubber boots, but they soon moved to telecommunications in which they saw great success. However, Nokia never transitioned to smart phones which led to a large downfall in their economic success. They were overtaken by Samsung and their success continued to decline. This expands on the fact that since Nokia was unable to adapt to the current society, it was overtaken by Samsung, which was introducing new ideas and technologies that were better suited and advanced for the environment. 
