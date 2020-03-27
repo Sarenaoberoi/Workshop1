@@ -14,6 +14,8 @@ Sarena Oberoi
 
 5. [Wired and Kitchen Response](https://sarenaoberoi.github.io/Workshop1/wired) (Feb. 25)
 
+6. [Stevens Response](http://sarenaoberoi.github.io/Workshop1/wired) (March. 26)
+
 
 ### Formal Assignments
 
