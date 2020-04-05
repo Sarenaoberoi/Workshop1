@@ -1,5 +1,6 @@
 ## Literature Review                                        
 Sarena Oberoi 
+
 April 6, 2020
 
 ### Introduction 
@@ -15,30 +16,31 @@ There was a study done in order to identify some of the main risks of Ebola tran
 ### Discussion
 Based on the previous research done, the use of these geospatial datasets has been very beneficial in seeing which covariates are the most critical in the spread of the Ebola virus. Furthermore, according to the research I have done so far, it is evident that there are a variety of different methods that researchers have been using that not only provide significant evidence for how Ebola spreads, but how many diseases prevalent in today’s world spread as well. For example, along with CDR data and gravity models, researches have made use of the random forest model in order to predict where a variety of diseases will go. Looking at the data I have looked into, I have noticed that although researchers do look into different covariates, it seems that the choices they are choosing to research are very narrow. I feel that a large gap that I have found in the research, is that scientists are failing to recognize how a number of different covariates are effecting the spread of the disease. For example, in the articles that I have read it seems that most researchers look into specific aspects such as the number of individuals in the household, the number of bathrooms, how far households are from hospitals. Although these variables are extremely important to research, I feel that it is also important to interview individuals in order to gain insight regarding their own medical health. This could include gathering information regarding previous, as well as current health conditions. This way, it is possible to see who is most at risk of contracting the virus. Furthermore, gathering data on the sanitary habits of individual living in Western Africa (or other countries that are at risk for the virus) could be very beneficial in identifying individuals that are more at risk for the Ebola virus. This focus on hygiene could also be beneficial in seeing how sanitary and hygienic habits effect the spread of the virus. I believe that the overall questions that I am attempting to answer is “what are the main factors that are critical to the effect of the spread of Ebola?” By identifying these central factors, researchers know exactly which elements they should track and keep a close eye on. By focusing on these factors, it is possible to track the spread of Ebola, and ultimately, eradicate the outbreak overall. 
 ### Bibliography
-1.	“2014-2016 Ebola Outbreak in West Africa.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 8 Mar. 2019, www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html.
+**1. “2014-2016 Ebola Outbreak in West Africa.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 8 Mar. 2019, www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html.
 
-2.	Ebola Virus Disease Distribution Map: Cases of Ebola Virus Disease in Africa Since 1976. (2019, June 19). Center for Disease Control and Prevention. Retrieved from http://www.cdc.gov/vhf/ebola/history/distribution-map.html
-3.	Peak, C. M., Wesolowski, A., Erbach-Schoenberg, E. Z., Tatem, A. J., Wetter, E., Lu, X., Bengtsson, L. (2018). Population mobility reductions associated with travel restrictions during the Ebola epidemic in Sierra Leone: use of mobile phone data. International Journal of Epidemiology, 47(5), 1562–1570. doi: 10.1093/ije/dyy095
-4.	Zinszer, K., Morrison, K., Verma, A., & Brownstein, J. S. (2017). Spatial Determinants of Ebola Virus Disease Risk for the West African Epidemic. PLoS Currents. doi: 10.1371/currents.outbreaks.b494f2c6a396c72ec24cb4142765bb95
-5.	Jain, A. (2017). Predictive Models for Ebola Using Machine Learning Algorithm (Doctoral dissertation). Retrieved from http://fau.digital.flvc.org/islandora/object/fau%3A38026/datastream/OBJ/view/Predictive_Models_for_Ebola_using_Machine_Learning_Algorithms.pdf
-6.	Fiorillo, G., Bocchini, P., & Buceta, J. (2018). A Predictive Spatial Distribution Framework for Filovirus-Infected Bats. Scientific Reports, 8(1). doi: 10.1038/s41598-018-26074-4
-7.	Misra, Tanvi, and Tanvi Misra. “Does Ebola Spread Faster in Cities?” CityLab, 3 Oct. 2014, www.citylab.com/life/2014/10/does-ebola-spread-faster-in-cities/381115/.
+**2.	Ebola Virus Disease Distribution Map: Cases of Ebola Virus Disease in Africa Since 1976. (2019, June 19). Center for Disease Control and Prevention. Retrieved from http://www.cdc.gov/vhf/ebola/history/distribution-map.html**
 
+**3.	Peak, C. M., Wesolowski, A., Erbach-Schoenberg, E. Z., Tatem, A. J., Wetter, E., Lu, X., Bengtsson, L. (2018). Population mobility reductions associated with travel restrictions during the Ebola epidemic in Sierra Leone: use of mobile phone data. International Journal of Epidemiology, 47(5), 1562–1570. doi: 10.1093/ije/dyy095**
 
-8.	Venkatramanan, Srinivasan, et al. “Using Data-Driven Agent-Based Models for Forecasting Emerging Infectious Diseases.” Epidemics, Elsevier, 22 Feb. 2017, www.sciencedirect.com/science/article/pii/S1755436517300221.
-9.	Merler, Stefano, et al. “Spatiotemporal Spread of the 2014 Outbreak of Ebola Virus Disease in Liberia and the Effectiveness of Non-Pharmaceutical Interventions: a Computational Modelling Analysis.” The Lancet. Infectious Diseases, U.S. National Library of Medicine, Feb. 2015, www.ncbi.nlm.nih.gov/pubmed/25575618.
+**4.	Zinszer, K., Morrison, K., Verma, A., & Brownstein, J. S. (2017). Spatial Determinants of Ebola Virus Disease Risk for the West African Epidemic. PLoS Currents. doi: 10.1371/currents.outbreaks.b494f2c6a396c72ec24cb4142765bb95**
 
+**5.	Jain, A. (2017). Predictive Models for Ebola Using Machine Learning Algorithm (Doctoral dissertation). Retrieved from http://fau.digital.flvc.org/islandora/object/fau%3A38026/datastream/OBJ/view/Predictive_Models_for_Ebola_using_Machine_Learning_Algorithms.pdf**
 
+**6.	Fiorillo, G., Bocchini, P., & Buceta, J. (2018). A Predictive Spatial Distribution Framework for Filovirus-Infected Bats. Scientific Reports, 8(1). doi: 10.1038/s41598-018-26074-4**
 
-10.	Gleason, B. L., et al. “Geospatial Analysis of Household Spread of Ebola Virus in a Quarantined Village – Sierra Leone, 2014: Epidemiology & Infection.” Cambridge Core, Cambridge University Press, 22 Aug. 2017, www.cambridge.org/core/journals/epidemiology-and-infection/article/geospatial-analysis-of-household-spread-of-ebola-virus-in-a-quarantined-village-sierra-leone-2014/FF334CAB5CAEBA1AE7ACE3265B221934.
-11.	D'Silva, Jeremy P, and Marisa C Eisenberg. “Modeling Spatial Invasion of Ebola in West Africa.” Journal of Theoretical Biology, U.S. National Library of Medicine, 7 Sept. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5576591/.
+**7.	Misra, Tanvi, and Tanvi Misra. “Does Ebola Spread Faster in Cities?” CityLab, 3 Oct. 2014, www.citylab.com/life/2014/10/does-ebola-spread-faster-in-cities/381115/.**
 
+**8.	Venkatramanan, Srinivasan, et al. “Using Data-Driven Agent-Based Models for Forecasting Emerging Infectious Diseases.” Epidemics, Elsevier, 22 Feb. 2017, www.sciencedirect.com/science/article/pii/S1755436517300221.**
 
+**9.	Merler, Stefano, et al. “Spatiotemporal Spread of the 2014 Outbreak of Ebola Virus Disease in Liberia and the Effectiveness of Non-Pharmaceutical Interventions: a Computational Modelling Analysis.” The Lancet. Infectious Diseases, U.S. National Library of Medicine, Feb. 2015, www.ncbi.nlm.nih.gov/pubmed/25575618.**
 
-12.	“Geographic Information System Data.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 13 Dec. 2018, www.cdc.gov/eis/field-epi-manual/chapters/GIS-data.html.
+**10.	Gleason, B. L., et al. “Geospatial Analysis of Household Spread of Ebola Virus in a Quarantined Village – Sierra Leone, 2014: Epidemiology & Infection.” Cambridge Core, Cambridge University Press, 22 Aug. 2017, www.cambridge.org/core/journals/epidemiology-and-infection/article/geospatial-analysis-of-household-spread-of-ebola-virus-in-a-quarantined-village-sierra-leone-2014/FF334CAB5CAEBA1AE7ACE3265B221934.**
 
+**11.	D'Silva, Jeremy P, and Marisa C Eisenberg. “Modeling Spatial Invasion of Ebola in West Africa.” Journal of Theoretical Biology, U.S. National Library of Medicine, 7 Sept. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5576591/.**
 
-13.	Admin. “What Is GIS – Definition?” Grind GIS-GIS and Remote Sensing Blogs, Articles, Tutorials, 26 Nov. 2017, grindgis.com/what-is-gis/what-is-gis-definition.
+**12.	“Geographic Information System Data.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 13 Dec. 2018, www.cdc.gov/eis/field-epi-manual/chapters/GIS-data.html.**
+
+**13.	Admin. “What Is GIS – Definition?” Grind GIS-GIS and Remote Sensing Blogs, Articles, Tutorials, 26 Nov. 2017, grindgis.com/what-is-gis/what-is-gis-definition.**
 
 
 
