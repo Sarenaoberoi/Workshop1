@@ -40,7 +40,7 @@ Based on the previous research done, the use of these geospatial datasets has be
 
 **12.	“Geographic Information System Data.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 13 Dec. 2018, www.cdc.gov/eis/field-epi-manual/chapters/GIS-data.html.**
 
-**13.	Admin. “What Is GIS – Definition?” Grind GIS-GIS and Remote Sensing Blogs, Articles, Tutorials, 26 Nov. 2017, grindgis.com/what-is-gis/what-is-gis-definition.**
+**13.	Esri. “What Is GIS – Definition?” Grind GIS-GIS and Remote Sensing Blogs, Articles, Tutorials, 26 Nov. 2017, grindgis.com/what-is-gis/what-is-gis-definition.**
 
 **14. Sen, Amartya (Amartya Kumat). Development as Freedom. Oxford University Press, 1999.**
 
