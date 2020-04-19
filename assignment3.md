@@ -22,7 +22,8 @@ The gravity model is typically described using the equation expressed below, in 
 
 However there was a more specific gravity model equation used in this study (modified to give more precise variables regarding disease spread): 
 
-***R = θ [(V α Pβ Fγ)/ (d2VU )]***
+<img width="231" alt="Screen Shot 2020-04-19 at 2 36 35 PM" src="https://user-images.githubusercontent.com/60228365/79696577-6a8cec80-824b-11ea-93f0-ab6a854656ca.png">
+
 
 In which R represents a prediction of how many individuals are at risk for contracting the disease, V is the vegetation surface area, U is urban locations, P is the population, d is distance (from urban areas to vegetation areas), and the other variables represent distinct variables utilized in the model ***(2).***   
 
