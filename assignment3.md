@@ -18,7 +18,7 @@ The gravity model is a commonly used method that works to determine the movement
 A specific disease that is most commonly spread through contact with vegetation was studied using a gravity model. The goal of the model was to determine how human movement from distinct areas that were either in an urban area or vegetation area, effected the spread of the disease ***(2).*** Data from the Belgian Institute of Public Health was used to find predictive values regarding the transmission of the diseases, as well as information regarding who was at risk for the disease based on age and gender. There were also specific covariates that were identified such as characteristics of a variety of forests, the overall landscape of urban and vegetation areas, hunting, and animal production. Distances from urban areas to vegetation lands were obtained and mapped. The population densities of the towns studied were also recorded. These variables were placed into the gravity model equation. ***(2)***    
 The gravity model is typically described using the equation expressed below, in which aij represents the force of attraction between two distinct points i and j; aij is proportional to mi and mj (massess of these specific points), but inversely proportional to dij which is used to describe the distance between the two distinct areas ***(2)***.  
 
-***aij= mimjdij-2***
+<img width="163" alt="Screen Shot 2020-04-19 at 2 39 34 PM" src="https://user-images.githubusercontent.com/60228365/79696605-a6c04d00-824b-11ea-8834-8d807fa325e4.png">
 
 However there was a more specific gravity model equation used in this study (modified to give more precise variables regarding disease spread): 
 
