@@ -31,7 +31,7 @@ The results of the model showed that there were instances in which the gravity m
 
 <img width="405" alt="Screen Shot 2020-04-19 at 2 37 26 PM" src="https://user-images.githubusercontent.com/60228365/79696685-44b41780-824c-11ea-99e1-dbc126d2ed6f.png">
 
-***Figure 1.***: 
+***Figure 1***: 
 
 
 ### Impedance Model
