@@ -30,3 +30,5 @@ Sarena Oberoi
 -Dimension of Human Development 
 
 2. [Literature Review](https://sarenaoberoi.github.io/Workshop1/literaturereview) 
+
+3. [Investigate a Methodology](https://sarenaoberoi.github.io/Workshop
