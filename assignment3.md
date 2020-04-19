@@ -34,7 +34,7 @@ The results of the model showed that there were instances in which the gravity m
 
 Another study introduced the impedance model along with the gravity and radiation model in order to see which model provided the most accurate prediction regarding disease transmission. In the impedance model (established on the basis of Ohm’s law of electricity), the electrical terms were converted to terms regarding human mobility. In the formula below, the term ‘d’ represents distance, ‘Fij’ represents the number of trips taken a day from two specific locations ‘i’ and ‘j’, ‘α’ and ‘p’ work together to represent population density ***(2).***
 
-***Fij = α[(Pi+Pj )/dij]***
+<img width="167" alt="Screen Shot 2020-04-19 at 2 41 23 PM" src="https://user-images.githubusercontent.com/60228365/79696631-f9016e00-824b-11ea-9b3b-2d39e9f633f2.png">
 
 More specifically, in order to know what the probability of an individual moving from a specific location ‘i’ to a specific location ‘j’, another impedance model formula is used:
 
