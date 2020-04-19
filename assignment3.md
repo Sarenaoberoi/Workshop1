@@ -16,21 +16,23 @@ The central questions regarding the transmission of Ebola can be answered using 
 
 The gravity model is a commonly used method that works to determine the movement of individuals between two specific areas, established on the basis of Newton’s law of gravity. In a specific study published in 2017, the accuracy of the gravity model was put to the test in order to see how well it performed compared to other tests ***(1)***.
 A specific disease that is most commonly spread through contact with vegetation was studied using a gravity model. The goal of the model was to determine how human movement from distinct areas that were either in an urban area or vegetation area, effected the spread of the disease. Data from the Belgian Institute of Public Health was used to find a predictive value regarding the transmission of the diseases, as well as information regarding who was at risk for the disease based on age and gender. There were also specific covariates that were identified such as characteristics of a variety of forests, the overall landscape of urban and vegetation areas, hunting, and animal production. Distances from urban areas to vegetation lands were obtained and mapped. The population densities of the towns studied were also recorded. These variables were placed into the gravity model equation. ***(1)***    
-The gravity model is typically described using the equation expressed below, in which aij represents the force of attraction between two distinct points i and j; aij is directly proportional to mi and mj, but also inversely proportional to dij which is used to describe the distance separating the two distinct areas.   
+The gravity model is typically described using the equation expressed below, in which aij represents the force of attraction between two distinct points i and j; a_ij is directly proportional to mi and mj, but also inversely proportional to dij which is used to describe the distance separating the two distinct areas.   
 
 ***aij= mimjdij-2***
 
-However, A more specific gravity model was used in this study (modified to give more precise variables regarding disease spread): 
+However there was a more specific gravity model was used in this study (modified to give more precise variables regarding disease spread): 
 
 ***R = θ [(V α Pβ Fγ)/ (d2VU )]***
 
-In which R represents a prediction of how many individuals are at risk for contracting the virus, V is the vegetation surface area, U is urban areas, P is the population, d is distance (from urban areas to vegetation areas), and the other variables represent distinct parameters utilized in the model.    
-The results of the model showed that there were instances in which the gravity model underestimated the movement of individuals, and therefore the spread of the disease. However, the model was able to determine that the area with the highest risk of disease transmission was southern Belgium. Furthermore, the model shows that areas with high vegetation development are also more at risk for the disease. The gravity model also fit the root mean squared deviance for the spread of the disease is vegetation areas. In sum, the gravity model was able to provide a relatively accurate representation regarding how the movement of individuals from different locations effected the spread of the disease. Individuals involved in forestry/hunting activities in highly vegetated areas were more at risk for transmitting the disease from moving from area to area ***(1)***.  
+In which R represents a prediction of how many individuals are at risk for contracting the disease, V is the vegetation surface area, U is urban areas, P is the population, d is distance (from urban areas to vegetation areas), and the other variables represent distinct parameters utilized in the model ***(1).***   
+
+The results of the model showed that there were instances in which the gravity model underestimated the movement of individuals, and therefore the spread of the disease. However, the model was able to determine that the area with the highest risk of disease transmission was southern Belgium. Furthermore, the model shows that areas with high vegetation development are also more at risk for the disease. The gravity model was also able to successfully fit the root mean squared deviance for the spread of the disease in vegetation areas. In sum, the gravity model was able to provide a relatively accurate representation regarding how the movement of individuals from different locations effected the spread of the disease. Individuals involved in forestry/hunting activities in highly vegetated areas were more at risk for transmitting the disease from moving from area to area ***(1)***.  
 
 
 ### Impedance Model
 
 Another study introduced the impedance model along with the gravity and radiation model in order to see which model provided the most accurate prediction regarding disease transmission. In the impedance model (established on the basis of Ohm’s law of electricity), the electrical terms were converted to terms regarding human mobility. In the formula below, the term ‘d’ represents distance, ‘Fij’ represents the number of trips taken a day from two specific locations ‘i’ and ‘j’, ‘α’ and ‘p’ work together to represent population density ***(2).***
+
 ***Fij = α[(Pi+Pj )/dij]***
 
 More specifically, in order to know what the probability of an individual moving from a specific location ‘i’ to a specific location ‘j’, another impedance model formula is used:
