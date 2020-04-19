@@ -29,6 +29,10 @@ In which R represents a prediction of how many individuals are at risk for contr
 
 The results of the model showed that there were instances in which the gravity model underestimated the movement of individuals, and therefore the spread of the disease. However, the model was able to determine that the area with the highest risk of disease transmission was southern Belgium. The models showed that the areas with the highest residual values were also most at risk for contracting the disease. The graphs also portrayed that the gravity model predicted the spread of NE (one of the diseases studied), which was seen by it lining up fittingly with the root mean squared deviance in vegetation areas. That being said, the model showed that areas with high vegetation development were  more at risk for the disease. In sum, the gravity model was able to provide a relatively accurate representation regarding how the movement of individuals from different locations effected the spread of the disease. Individuals involved in forestry/hunting activities in highly vegetated areas were more at risk for transmitting the disease from moving from area to area ***(2)***.  
 
+<img width="405" alt="Screen Shot 2020-04-19 at 2 37 26 PM" src="https://user-images.githubusercontent.com/60228365/79696685-44b41780-824c-11ea-99e1-dbc126d2ed6f.png">
+
+***Figure 1.***: 
+
 
 ### Impedance Model
 
@@ -45,7 +49,7 @@ The impedance model resulted in the lowest aRMSE value of 7.19. The gravity mode
 
 <img width="628" alt="Screen Shot 2020-04-19 at 1 07 28 PM" src="https://user-images.githubusercontent.com/60228365/79696436-b723f800-824a-11ea-9875-dd9b26089851.png">
 
-
+***Figure 2:***
 
 ## Conclusion
 
