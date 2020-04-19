@@ -31,8 +31,7 @@ The results of the model showed that there were instances in which the gravity m
 
 <img width="405" alt="Screen Shot 2020-04-19 at 2 37 26 PM" src="https://user-images.githubusercontent.com/60228365/79696685-44b41780-824c-11ea-99e1-dbc126d2ed6f.png">
 
-***Figure 1***: 
-
+***Figure 1***: Models portraying the risk of disease transmission from areas with varying amounts of vegetation. The higher the residual, the more at risk the area is for disease transmission.  
 
 ### Impedance Model
 
@@ -49,11 +48,12 @@ The impedance model resulted in the lowest aRMSE value of 7.19. The gravity mode
 
 <img width="373" alt="Screen Shot 2020-04-19 at 2 47 55 PM" src="https://user-images.githubusercontent.com/60228365/79696801-d58af300-824c-11ea-9981-3c41d55df45c.png">
 
-***Figure 2:***
+***Figure 2:*** The radiation model (black), gravity (red), and impedance (green), all predict the amount of trips conducted. 
+ 
 
 <img width="628" alt="Screen Shot 2020-04-19 at 1 07 28 PM" src="https://user-images.githubusercontent.com/60228365/79696436-b723f800-824a-11ea-9875-dd9b26089851.png">
 
-***Figure 3:***
+***Figure 3:*** Scenario 1, 2, and 3 are graphed using each model (gravity, radiation, and impedance) to predict the amount of trips conducted. 
 
 ## Conclusion
 
