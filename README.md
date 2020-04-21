@@ -32,3 +32,5 @@ Sarena Oberoi
 2. [Literature Review](https://sarenaoberoi.github.io/Workshop1/literaturereview) 
 
 3. [Investigate a Methodology](https://sarenaoberoi.github.io/Workshop1/assignment3)
+
+4. [In class essay 2](https://sarenaoberoi.github.io/Workshop1/inclassessay2)
